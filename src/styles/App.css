@@ -10,6 +10,7 @@
 }
 
 .my-header {
+  background-color: black;
   text-align: center;
   font-size: 40px;
   color: orange;
@@ -36,6 +37,7 @@
 
 .quake-list {
   padding-top: 30px;
+  background-color: rgb(211, 211, 211);
 }
 
 .card {
